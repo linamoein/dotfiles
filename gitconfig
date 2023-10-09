@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = lina@moein.fr
+	email = lina@moein.fr gh api ...
 	name = lina moein
